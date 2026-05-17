@@ -92,7 +92,7 @@ A creative AI multimedia project for converting text into animated video present
 - Animated AI-themed visual effects
 - Multimedia-focused Python project
 
-Repository: [ML-Training](https://github.com/Mehdiiii2001/ML-Training)
+Repository: [ai-text-to-video-presentation](https://github.com/Mehdiiii2001/ai-text-to-video-presentation)
 
 ---
 
